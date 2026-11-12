@@ -1,4 +1,4 @@
-print("Hola, este archivo está conectado con Git y GitHub")
+print("Hola, este archivo eestá conectado con Git y GitHub")
 print("Hola")
 print("Es")
 print("Jueves")
