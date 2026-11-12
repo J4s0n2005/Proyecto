@@ -1,5 +1,5 @@
-#Hallar un programa que te permita hallar el promedio de 3 notas
-#HOLA
+#Promedio de notas
+
 #ENTRADA
 Nota1 = float(input("Ingrese la primera nota: \t"))
 Nota2 = float(input("Ingrese la segunda nota: \t"))
