@@ -1,2 +1,6 @@
 print("Hola, este archivo está conectado con Git y GitHub")
-#qasdada
+print("Hola")
+print("Es")
+print("Jueves")
+print("Tengo")
+print("Hambre")
